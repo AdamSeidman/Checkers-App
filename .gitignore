@@ -1,0 +1,23 @@
+# Build/Maven #
+###############
+**/target/
+
+
+# Eclipse #
+###########
+.project
+.classpath
+.settings
+**/bin/
+.metadata/
+
+
+# IntelliJ #
+############
+.idea/
+*.iml
+
+clients.dat
+games.dat
+lobby.dat
+Editor.java
